@@ -67,7 +67,16 @@ Open the `dominos_project.twbx` file using:
 Interact with the dashboard using the available filters and controls.
 
 ---
+---
 
+## 📸 Dashboard Preview
+
+### Domino's Sales Dashboard
+<img width="1502" height="842" alt="Screenshot 2026-07-04 001713" src="https://github.com/user-attachments/assets/13b6ded4-ef65-44e2-ab09-c13ed2116562" />
+
+> **Note:** This dashboard provides interactive insights into sales performance, order trends, revenue analysis, product performance, and key business metrics.
+
+---
 ## Author
 
 Aakansha Saxena
